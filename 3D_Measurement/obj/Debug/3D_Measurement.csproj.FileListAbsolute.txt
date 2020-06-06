@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\bin\Debug\3D_Measurement.exe.config
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\bin\Debug\3D_Measurement.exe
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\bin\Debug\3D_Measurement.pdb
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\3D_Measurement.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\_3D_Measurement.Form1.resources
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\_3D_Measurement.Properties.Resources.resources
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\3D_Measurement.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\3D_Measurement.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\3D_Measurement.exe
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\3D_Measurement.pdb
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\bin\Debug\EPPlus.dll
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\bin\Debug\EPPlus.xml
+C:\Users\ABC\source\repos\3D_Measurement\3D_Measurement\obj\Debug\3D_Measurement.csproj.CopyComplete
